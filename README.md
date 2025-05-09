@@ -34,8 +34,10 @@ Example for Apache (add to httpd-vhosts.conf):
     ```bash
     http://portfolio.local
 
-## 📸 Screenshots
+## 📸 Demo & Screenshot
+- **Demo**
 ![jpb-portfolio](https://github.com/user-attachments/assets/a540948a-482c-4ebe-9ae1-bba573c32751)
 
+- **Screenshot**
 ![screencapture-yjaphzs-2019-test-2025-05-09-16_53_37](https://github.com/user-attachments/assets/a4aeb4a7-8c86-4797-899e-4b1c83953003)
 
