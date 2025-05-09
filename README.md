@@ -14,7 +14,7 @@ This is my personal portfolio website created back in **2019** using **Laravel 7
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yjaphzs/portfolio2019.git
+   git clone https://github.com/yjaphzs/jpb-portfolio.git
 
 2. Set up a virtual host (e.g., in Apache, Laragon, or Valet) pointing to the project's /public folder. Make sure you're using PHP 7.4 for the server.
 Example for Apache (add to httpd-vhosts.conf):
