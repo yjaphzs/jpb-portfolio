@@ -10,7 +10,7 @@ This is my personal portfolio website created back in **2019** using **Laravel 7
 - **HTML**, **CSS (SASS)**, **JavaScript**
 - **Blade templating**
 
-## 🚀 How to Run
+## 🚀 Installation
 
 1. Clone the repository:
    ```bash
@@ -20,9 +20,9 @@ This is my personal portfolio website created back in **2019** using **Laravel 7
 Example for Apache (add to httpd-vhosts.conf):
     ```bash
     <VirtualHost *:80>
-        DocumentRoot "C:/path/to/portfolio2019/public"
+        DocumentRoot "C:/path/to/portfolio2019"
         ServerName portfolio.local
-        <Directory "C:/path/to/portfolio2019/public">
+        <Directory "C:/path/to/portfolio2019">
             AllowOverride All
             Require all granted
         </Directory>
