@@ -28,7 +28,7 @@ Example for Apache (add to httpd-vhosts.conf):
         </Directory>
     </VirtualHost>
 
-    > Ensure PHP 7.4 is set in your Apache configuration:
+  > Ensure PHP 7.4 is set in your Apache configuration:
 
 3. Access the site in your browser using the configured local domain:
     ```bash
