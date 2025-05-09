@@ -9,8 +9,6 @@ This is my personal portfolio website created back in **2019** using **Laravel 7
 - **Laravel 7**
 - **HTML**, **CSS (SASS)**, **JavaScript**
 - **Blade templating**
-- **MySQL** (for data storage)
-- **Laravel Mix** (for asset compilation)
 
 ## 🚀 How to Run
 
@@ -30,7 +28,7 @@ Example for Apache (add to httpd-vhosts.conf):
         </Directory>
     </VirtualHost>
 
-> Ensure PHP 7.4 is set in your Apache configuration:
+    > Ensure PHP 7.4 is set in your Apache configuration:
 
 3. Access the site in your browser using the configured local domain:
     ```bash
