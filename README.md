@@ -1,4 +1,4 @@
-# JPB - Portfolio (2019)
+![screencapture-yjaphzs-2019-test-2025-05-09-16_53_37](https://github.com/user-attachments/assets/fd77ec9f-77f6-4203-b20b-e65aa670d686)# JPB - Portfolio (2019)
 
 This is my personal portfolio website created back in **2019** using **Laravel 7**. It was one of my first projects to showcase my skills, experiences, and projects online.
 
@@ -34,4 +34,8 @@ Example for Apache (add to httpd-vhosts.conf):
     ```bash
     http://portfolio.local
 
-    
+## 📸 Screenshots
+![jpb-portfolio](https://github.com/user-attachments/assets/a540948a-482c-4ebe-9ae1-bba573c32751)
+
+![screencapture-yjaphzs-2019-test-2025-05-09-16_53_37](https://github.com/user-attachments/assets/a4aeb4a7-8c86-4797-899e-4b1c83953003)
+
