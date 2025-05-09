@@ -11,3 +11,9 @@ This is my personal portfolio website created back in **2019** using **Laravel 7
 - **Blade templating**
 - **MySQL** (for data storage)
 - **Laravel Mix** (for asset compilation)
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yjaphzs/portfolio2019.git
