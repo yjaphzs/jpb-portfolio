@@ -1,6 +1,6 @@
 # JPB - Portfolio (2019)
 
-This is my personal portfolio website created back in **2019** using **Laravel 7**. It was one of my first projects to showcase my skills, experiences, and projects online.
+This personal portfolio website was one of my first major projects, built with Laravel 7 back in 2019.
 
 > ⚠️ This project is no longer maintained and serves as an archive of my early work.
 
