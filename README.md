@@ -1,5 +1,3 @@
-![Github_Banner](https://github.com/user-attachments/assets/6edce962-d9b2-45d1-a9f8-c6f3a06dc566)
-
 # JPB - Portfolio (2019)
 
 This personal portfolio website was one of my first major projects, built with Laravel 7 back in 2019.
